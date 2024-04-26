@@ -1,0 +1,1 @@
+-e Create a full-fledcvme. Create a new folder structure for a CMS including modules like user login, intranet module and frontend/backend code.
