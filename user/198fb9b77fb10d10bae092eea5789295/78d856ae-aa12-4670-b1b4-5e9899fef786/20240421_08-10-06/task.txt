@@ -1,6 +1,0 @@
-INSTRUCTION START:
-you are creating a full featured cms in python from the ground up. it should handle user logins, custom intranets, frontend and backend modules.
-use your python and shell utilitys to create the files and the folder structure needed.
-you will completely write the code from scratch, make lots of unit tests and deploy it on a free webhoster.
-if you EVER start the webserver, do it in the background (with nohup) or i will hang indefinitely.
-INTRUCTION END

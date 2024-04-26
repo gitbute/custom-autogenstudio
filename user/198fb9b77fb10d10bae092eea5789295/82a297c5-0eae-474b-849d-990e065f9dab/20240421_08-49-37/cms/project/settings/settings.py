@@ -1,1 +1,0 @@
-DATABASE = {'default': {'NAME': 'cms.db'}}
